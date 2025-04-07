@@ -11,14 +11,14 @@ namespace Tienda_Online.Models
         private string _nombre;
         private string _apellido;
         private string _correo;
-        private int _telefono;
+        private long _telefono;
 
         public Persona()
         {
 
         }
 
-        public Persona(int id, string nombre, string apellido, int telefono, string correo)
+        public Persona(int id, string nombre, string apellido, long telefono, string correo)
         {
             Id = id;
             Nombre = nombre;
@@ -30,7 +30,7 @@ namespace Tienda_Online.Models
         public int Id { get => _id; set => _id = value; }
         public string Nombre { get => _nombre; set => _nombre = value; }
         public string Apellido { get => _apellido; set => _apellido = value; }
-        public int Telefono { get => _telefono; set => _telefono = value; }
+        public long Telefono { get => _telefono; set => _telefono = value; }
 
         public string Correo { get => _correo; set => _correo = value; }
     }

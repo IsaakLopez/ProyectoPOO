@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Newtonsoft.Json;
 
 namespace Tienda_Online.Models
 {
@@ -12,15 +13,12 @@ namespace Tienda_Online.Models
         private string _descripcion;
         private float _precio;
         private int _cantidadDisponible;
-        private Categoria _categoria;
-        private Proveedor _proveedor;
         private int _proveedorId;
+        private Proveedor _proveedor;
         private int _categoriaId;
+        private Categoria _categoria;
 
-        public Producto()
-        {
-        }
-
+        public Producto() { }
         public Producto(int id, string nombreProducto, string descripcion, float precio, int cantidad, int proveedorId, int categoriaId)
         {
             Id = id;

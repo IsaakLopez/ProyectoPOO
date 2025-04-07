@@ -24,20 +24,9 @@ namespace Tienda_Online.Controllers
         /// <response code="200">Devuelve el valor encontrado</response>
         /// <response code="404">Si el valor no es encontrado</response>
         // GET: api/Producto
-        public IHttpActionResult Get()
+        public IEnumerable<Producto> Get()
         {
-            var productos = from producto in db.Productos
-                            select new
-                            {
-                                producto.Id,
-                                producto.NombreProducto,
-                                producto.Descripcion,
-                                producto.Precio,
-                                producto.CantidadDisponible,
-                                categoria = producto.Categoria.Nombre,
-                                proveedor = producto.Proveedor1.Nombre + " " + producto.Proveedor1.Apellido
-                            };
-            return Ok(productos);
+           return db.Productos;
         }
 
         /// <summary>
@@ -186,13 +175,19 @@ namespace Tienda_Online.Controllers
         /// <response code="200">Devuelve el valor encontrado</response>
         /// <response code="404">Si el valor no es encontrado</response>
         // POST: api/Producto
-        public IHttpActionResult Post(Producto producto)
+        public IHttpActionResult Post([FromBody] Producto producto)
         {
-            var proveedorExistente = db.Proveedores.Find(producto.ProveedorId);
-
-            if (proveedorExistente == null)
+            if (!ModelState.IsValid)
             {
-                return BadRequest("El proveedor no existe.");
+                return BadRequest(ModelState);
+            }
+            if (producto.Proveedor1 != null) {
+                var proveedorExistente = db.Proveedores.Find(producto.Proveedor1.Id);
+                if (proveedorExistente == null)
+                {
+                    return BadRequest("El proveedor no existe.");
+                }
+                producto.Proveedor1 = proveedorExistente;
             }
 
             var categoriaexistente = db.Categorias.Find(producto.CategoriaId);
@@ -201,7 +196,7 @@ namespace Tienda_Online.Controllers
                 return BadRequest("La categoria no existe");
             }
 
-            producto.Proveedor1 = proveedorExistente;
+           
             producto.Categoria = categoriaexistente;
             db.Productos.Add(producto);
             db.SaveChanges();

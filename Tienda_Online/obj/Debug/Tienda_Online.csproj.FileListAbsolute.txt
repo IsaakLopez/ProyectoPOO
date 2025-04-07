@@ -1,4 +1,5 @@
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Tienda_Online.dll.config
+C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Tienda_Online.xml
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Tienda_Online.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Tienda_Online.pdb
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\roslyn\csc.exe
@@ -56,6 +57,7 @@ C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2n
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Newtonsoft.Json.dll
+C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Swashbuckle.Core.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\System.Net.Http.Formatting.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\System.Web.Helpers.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\System.Web.Http.dll
@@ -66,6 +68,7 @@ C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2n
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\System.Web.WebPages.Deployment.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\System.Web.WebPages.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\System.Web.WebPages.Razor.dll
+C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\WebActivatorEx.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\WebGrease.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\EntityFramework.xml
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\EntityFramework.SqlServer.xml
@@ -97,6 +100,3 @@ C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2n
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\obj\Debug\Tienda_O.08A42A86.Up2Date
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\obj\Debug\Tienda_Online.dll
 C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\obj\Debug\Tienda_Online.pdb
-C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Tienda_Online.xml
-C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\Swashbuckle.Core.dll
-C:\Users\megal\OneDrive\Escritorio\2025 I PAC\POO\II Unidad\Practicas\Proyecto2nd\Tienda_Online\Tienda_Online\bin\WebActivatorEx.dll
