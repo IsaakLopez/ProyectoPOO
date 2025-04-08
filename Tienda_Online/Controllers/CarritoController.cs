@@ -19,9 +19,9 @@ namespace Tienda_Online.Controllers
         /// <response code="200">Devuelve el valor encontrado</response>
         /// <response code="404">Si el valor no es encontrado</response>
         // GET: api/Carrito
-        public IEnumerable<string> Get()
+        public IEnumerable<Carrito> Get()
         {
-            return new string[] { "value1", "value2" };
+            return db.Carritos;
         }
 
         /// <summary>
@@ -69,13 +69,24 @@ namespace Tienda_Online.Controllers
         }
 
         // PUT: api/Carrito/5
-        public void Put(int id, [FromBody]string value)
+        public IHttpActionResult Put(int id, Carrito carrito)
         {
+            db.Entry(carrito).State = EntityState.Modified;
+            db.SaveChanges();
+            return Ok(carrito);
         }
 
         // DELETE: api/Carrito/5
-        public void Delete(int id)
+        public IHttpActionResult Delete(int id)
         {
+            Carrito carrito = db.Carritos.Find(id);
+            if (carrito == null) 
+            { 
+                return NotFound();
+            }
+            db.Carritos.Remove(carrito);
+            db.SaveChanges();
+            return Ok(carrito);
         }
     }
 }

@@ -13,6 +13,7 @@ namespace Tienda_Online.Models
         private int _cantidad;
         private string _motivo;
 
+        public Devoluciones() { }
         public Devoluciones(int id, Pedido pedido, int idProducto, int cantidad, string motivo)
         {
             Id = id;
