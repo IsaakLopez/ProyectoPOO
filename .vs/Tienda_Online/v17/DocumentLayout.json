@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\devoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\devoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\dbcontextproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\dbcontextproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\devolucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\devolucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\ii unidad\\practicas\\proyecto2nd\\tienda_online\\tienda_online\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\ii unidad\\practicas\\proyecto2nd\\tienda_online\\tienda_online\\models\\devoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\devoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,20 +91,8 @@
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\dbcontextproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\dbcontextproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,16 +107,8 @@
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\reseniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,16 +119,8 @@
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\tienda_online\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CF6C5F-428F-4B0A-B694-DB8E051016C9}|Tienda_Online\\Tienda_Online.csproj|solutionrelative:tienda_online\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Tienda_Online||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -141,7 +141,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,20 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DevolucionesController.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\DevolucionesController.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\DevolucionesController.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\DevolucionesController.cs",
-              "RelativeToolTip": "Tienda_Online\\Controllers\\DevolucionesController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Tienda_Online\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:30:22.229Z",
+              "WhenOpened": "2025-03-17T05:27:18.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "InventarioController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\InventarioController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\InventarioController.cs",
@@ -174,73 +174,129 @@
               "RelativeToolTip": "Tienda_Online\\Controllers\\InventarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:32:21.853Z"
+              "WhenOpened": "2025-03-17T05:32:21.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Pedido.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Pedido.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Cliente.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:37:51.391Z"
+              "WhenOpened": "2025-03-16T16:33:59.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tienda_Online\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:39:32.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DbContextProject.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\DbContextProject.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\DbContextProject.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\DbContextProject.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\DbContextProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:56:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "Tienda_Online\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:24:48.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Administrador.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Administrador.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:33:36.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CarritoController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\CarritoController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\CarritoController.cs",
               "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\CarritoController.cs",
               "RelativeToolTip": "Tienda_Online\\Controllers\\CarritoController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T05:29:07.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Carrito.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Carrito.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Carrito.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Carrito.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAABIAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "DevolucionesController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\DevolucionesController.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\DevolucionesController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\DevolucionesController.cs",
+              "RelativeToolTip": "Tienda_Online\\Controllers\\DevolucionesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:34:58.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Resenia.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Resenia.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Resenia.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Resenia.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Resenia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T04:45:52.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Devoluciones.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Devoluciones.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Devoluciones.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Devoluciones.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Devoluciones.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:35:56.311Z",
+              "WhenOpened": "2025-03-17T05:30:22.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Tienda_Online\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:29:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Producto.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:56:44.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\ClienteController.cs",
@@ -252,7 +308,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "Devoluciones.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Devoluciones.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Devoluciones.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Devoluciones.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Devoluciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:35:56.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resenia.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Resenia.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Resenia.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Resenia.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Resenia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:45:52.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Carrito.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Carrito.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:34:58.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Pedido.cs",
+              "RelativeToolTip": "Tienda_Online\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:37:51.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\ProductoController.cs",
@@ -264,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Proveedor.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\Proveedor.cs",
@@ -276,19 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Producto.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T03:56:44.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Pago.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Pago.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\Pago.cs",
@@ -300,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "MetodoPago.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\MetodoPago.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\MetodoPago.cs",
@@ -312,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Inventario.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Inventario.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\Inventario.cs",
@@ -324,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Envio.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Envio.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\Envio.cs",
@@ -336,31 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DbContextProject.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\DbContextProject.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\DbContextProject.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\DbContextProject.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\DbContextProject.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T04:56:04.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Cliente.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:33:59.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\Categoria.cs",
@@ -372,19 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Administrador.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Models\\Administrador.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Administrador.cs",
-              "RelativeToolTip": "Tienda_Online\\Models\\Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:33:36.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Models\\Persona.cs",
@@ -396,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\PedidoController.cs",
@@ -408,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "PagoController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\PagoController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\PagoController.cs",
@@ -420,19 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Tienda_Online\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:39:32.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ProveedorController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\ProveedorController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\ProveedorController.cs",
@@ -444,19 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "Tienda_Online\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:29:31.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ReseniaController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\ReseniaController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\ReseniaController.cs",
@@ -468,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "EnvioController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\EnvioController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\EnvioController.cs",
@@ -480,19 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Tienda_Online\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:27:18.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "MetodoPagoController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\Controllers\\MetodoPagoController.cs",
               "RelativeDocumentMoniker": "Tienda_Online\\Controllers\\MetodoPagoController.cs",
@@ -512,18 +533,6 @@
               "RelativeToolTip": "Tienda_Online\\Tienda_Online.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-17T05:25:56.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SwaggerConfig.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\App_Start\\SwaggerConfig.cs",
-              "RelativeDocumentMoniker": "Tienda_Online\\App_Start\\SwaggerConfig.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\II Unidad\\Practicas\\Proyecto2nd\\Tienda_Online\\Tienda_Online\\App_Start\\SwaggerConfig.cs",
-              "RelativeToolTip": "Tienda_Online\\App_Start\\SwaggerConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUBAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:24:48.523Z"
             },
             {
               "$type": "Document",
