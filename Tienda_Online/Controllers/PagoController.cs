@@ -52,11 +52,27 @@ namespace Tienda_Online.Controllers
         /// <response code="200">Devuelve el valor encontrado</response>
         /// <response code="404">Si el valor no es encontrado</response>
         // POST: api/Pago
-        public IHttpActionResult Post(Pago pago)
+        public IHttpActionResult Post(Pago newpago)
         {
-            db.Pagos.Add(pago);
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var pedidoExistente = db.Pedidos.Find(newpago.IdPedido);
+            if (pedidoExistente == null)
+            {
+                return BadRequest("El pedido no existe.");
+            }
+            newpago.Pedido = pedidoExistente;
+            var metodopagoexistente = db.MetodosPago.Find(newpago.IdMetodo);
+            if (metodopagoexistente == null)
+            {
+                return BadRequest("El Metodo de pago no existe.");
+            }
+            newpago.MetodoPago = metodopagoexistente;
+            db.Pagos.Add(newpago);
             db.SaveChanges();
-            return Ok(pago);
+            return Ok(newpago);
         }
 
         /// <summary>

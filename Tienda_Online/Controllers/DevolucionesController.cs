@@ -54,6 +54,19 @@ namespace Tienda_Online.Controllers
         // POST: api/Devoluciones
         public IHttpActionResult Post(Devoluciones devoluciones)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            if (devoluciones.Pedido != null)
+            {
+                var pedidoExistente = db.Pedidos.Find(devoluciones.IdPedido);
+                if (pedidoExistente == null)
+                {
+                    return BadRequest("El proveedor no existe.");
+                }
+                devoluciones.Pedido = pedidoExistente;
+            }
             db.Devoluciones.Add(devoluciones);
             db.SaveChanges();
             return Ok(devoluciones);

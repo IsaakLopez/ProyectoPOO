@@ -55,6 +55,23 @@ namespace Tienda_Online.Controllers
         // POST: api/Envio
         public IHttpActionResult Post(Envio envio)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var pedidoExistente = db.Pedidos.Find(envio.Idpedido);
+            if (pedidoExistente == null)
+                {
+                    return BadRequest("El pedido no existe.");
+                }
+            envio.Pedido = pedidoExistente;
+            var pago = db.Pagos.Find(envio.Idpago);
+            if (pago == null)
+            {
+                return BadRequest("El pago no existe.");
+            }
+            envio.Pago = pago;
+
             db.Envios.Add(envio);
             db.SaveChanges();
             return Ok(envio);
