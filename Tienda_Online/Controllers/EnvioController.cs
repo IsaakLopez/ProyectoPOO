@@ -71,6 +71,7 @@ namespace Tienda_Online.Controllers
                 return BadRequest("El pago no existe.");
             }
             envio.Pago = pago;
+            envio.FechaEntregaEstimada = (envio.FechaEnvio).AddDays(7);
 
             db.Envios.Add(envio);
             db.SaveChanges();
