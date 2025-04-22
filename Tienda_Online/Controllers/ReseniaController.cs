@@ -54,6 +54,16 @@ namespace Tienda_Online.Controllers
         // POST: api/Resenia
         public IHttpActionResult Post(Resenia resenia)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            Cliente cliente = db.Clientes.Find(resenia.IdCliente);
+            if (cliente == null) 
+            {
+                return BadRequest("Cliente no encontrado");
+            }
+            resenia.Cliente = cliente;
             db.Resenias.Add(resenia);
             db.SaveChanges();
             return Ok(resenia);    
